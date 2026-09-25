@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Enterprise CRM",
+  "description": "Enterprise modular monolith CRM platform featuring multi-tenant branch hierarchy, sales pipeline kanban, lead conversion, automated workflows, and audit governance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
